@@ -1,6 +1,6 @@
 # Project Work: "Ube"
 
->The application was created as part of the course assignments for Ivan Petrychenko's "Web-Developer"
+>The project was created as part of the course assignments for Ivan Petrychenko's "Web-Developer"
 
 ## The project can be viewed by following the [link](https://ube.khudorenko.com/)
 
