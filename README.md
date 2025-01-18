@@ -17,5 +17,5 @@
 -  **JavaScript**
 
 #### **Available Features:**
--   A single-page website with a product catalog for purchasing items
+-   A single-page website
 -   Responsive design for different screen sizes
