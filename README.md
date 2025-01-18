@@ -2,7 +2,7 @@
 
 >The application was created as part of the course assignments for Ivan Petrychenko's "Web-Developer"
 
-## The project can be viewed by following the [link](https://www.khudorenko.com/ube.png)
+## The project can be viewed by following the [link]([https://www.khudorenko.com/ube.png](https://ube.khudorenko.com/)
 
 #### **Technologies Used:**
 
